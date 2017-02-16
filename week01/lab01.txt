@@ -21,3 +21,4 @@ drwxr-xr-x  2 mahiskia.shaumi StafCS 4096 Feb 13 22:12 week10
 drwxr-xr-x  2 mahiskia.shaumi StafCS 4096 Feb 13 22:08 week11
 drwxr-xr-x  2 mahiskia.shaumi StafCS 4096 Feb 13 22:12 xtra
 /home/fasilkom/mahasiswa/m/mahiskia.shaumi/os171/week01
+Today is 16 Feb 2017 at 09:41:49
