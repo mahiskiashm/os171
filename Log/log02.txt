@@ -1,3 +1,4 @@
 w02-170225-8-LR-About: Protection  & Security
-w02-170225-9-LR-AboutL Protection & Security
+w02-170225-9-LR-About: Protection & Security
 w02-170225-10-PS-learn and try to make some program with C languange
+w02-170225-11-LR-About: How tu use gpg (encrypting & decrypting) From: https://www.youtube.com/watch?v=a91v1bz_ZU4 & https://www.youtube.com/watch?v=m56dsDc2808
