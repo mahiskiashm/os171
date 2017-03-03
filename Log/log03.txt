@@ -1,0 +1,4 @@
+w03-170302-20-LR-About: BIOS and the UEFI
+w03-170302-21-LR-About: Linux Booting Procedure
+w03-170302-22-LR-About: Pointer-IO
+w03-170303-11-LR-About: Pointer-IO 
