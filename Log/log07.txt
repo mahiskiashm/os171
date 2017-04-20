@@ -1,0 +1,4 @@
+w07-170420-11-LR-About: Synchronization, From: Slide & BOOK
+w07-170420-12-LR-ABout: Critical section and semaphores, From: Slide & BOOK
+w07-170420-13-LR-About: Race Condition | Process Synchronization (Operating System), From: https://www.youtube.com/watch?v=4BInccFSKso
+w07-170420-14-LR-About: Critical Section Problem | (Operating System), From: https://www.youtube.com/watch?v=PoPePvh3cnY
